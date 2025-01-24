@@ -27,11 +27,11 @@ requirements:
     - openssl
     - brotli
     - bzip2
-    - xz
     - curl
     - sqlite
     - libboost-devel
     - editline
+    - liblzma-devel
     - libxml2
     - libxslt
     - bison
